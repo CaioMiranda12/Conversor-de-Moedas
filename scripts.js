@@ -68,6 +68,5 @@ const currencyChange = () => {
   convertValues()
 }
 
-
 button.addEventListener('click', convertValues)
 select.addEventListener('change', currencyChange)
